@@ -24,7 +24,7 @@ This project gave me valuable hands-on experience with semantic HTML5, modern CS
 ![Product Landing Page Screenshot](screenshot.png)
 
 ## 🌐 Live Demo  
-👉 [View it Live on GitHub Pages](https://AL-Azaki.github.io/product-landing-page/)
+👉 [View it Live on GitHub Pages](https://al-azaki.github.io/Product-Landing/)
 
 ## 💡 What I Learned
 While building this project, I significantly improved my skills in:
